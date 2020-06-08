@@ -140,38 +140,10 @@
 	        </Probabilities>
 	      </plateProbabilities>
 	      <lightSettings value="23"/>
-	      <sirenSettings value="1071"/>
-	    </Item>
-		<Item>
-	      <modelName>bcsogranger3</modelName>
-	      <colors>
-	        <Item>
-	          <indices content="char_array">
-	            0
-	            0
-	            0
-	            0
-	            0
-	            0
-	          </indices>
-	        </Item>
-	      </colors>
-	      <kits>
-	        <Item>0_suv_modkit</Item>
-	      </kits>
-	      <plateProbabilities>
-	        <Probabilities>
-	          <Item>
-	            <Name>Police guv plate</Name>
-	            <Value value="100"/>
-	          </Item>
-	        </Probabilities>
-	      </plateProbabilities>
-	      <lightSettings value="23"/>
 	      <sirenSettings value="1089"/>
 	    </Item>
 		<Item>
-	      <modelName>bcsogranger4</modelName>
+	      <modelName>bcsogranger3</modelName>
 	      <colors>
 	        <Item>
 	          <indices content="char_array">
@@ -225,34 +197,6 @@
 		  <sirenSettings value="1098"/>
 		</Item>
 		<Item>
-	      <modelName>bcsoscout</modelName>
-	      <colors>
-	        <Item>
-	          <indices content="char_array">
-	            0
-	            0
-	            0
-	            4
-	            0
-	            0
-	          </indices>
-	        </Item>
-	      </colors>
-		  <kits>
-	        <Item>0_suv_modkit</Item>
-	      </kits>
-	      <plateProbabilities>
-	        <Probabilities>
-	          <Item>
-	            <Name>police guv plate</Name>
-	            <Value value="100" />
-	          </Item>
-	        </Probabilities>
-	      </plateProbabilities>
-	      <lightSettings value="72" />
-	      <sirenSettings value="1071" />
-	    </Item>
-		<Item>
 	      <modelName>bcsostanier</modelName>
 	      <colors>
 	        <Item>
@@ -279,34 +223,6 @@
 	      </plateProbabilities>
 	      <lightSettings value="0" />
 	      <sirenSettings value="1070" />
-	    </Item>
-		<Item>
-	      <modelName>bcsostanier2</modelName>
-	      <colors>
-	        <Item>
-	          <indices content="char_array">
-	            0
-	            0
-	            0
-	            4
-	            0
-	            0
-	          </indices>
-	        </Item>
-	      </colors>
-		  <kits>
-	        <Item>0_default_modkit</Item>
-	      </kits>
-	      <plateProbabilities>
-	        <Probabilities>
-	          <Item>
-	            <Name>police guv plate</Name>
-	            <Value value="100" />
-	          </Item>
-	        </Probabilities>
-	      </plateProbabilities>
-	      <lightSettings value="0" />
-	      <sirenSettings value="1071" />
 	    </Item>
 		<Item>
 	      <modelName>bcsostanier3</modelName>
