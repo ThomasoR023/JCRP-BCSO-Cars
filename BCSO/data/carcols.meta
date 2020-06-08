@@ -1436,7 +1436,7 @@
 		  </sirens>
 		</Item>
 		<Item>
-		  <id value="1072"/>
+		  <id value="1087"/>
 		  <name>BCSO_Liberty</name>
 			<timeMultiplier value="1.00000000"/>
 			<lightFalloffMax value="90.00000000"/>
@@ -2225,7 +2225,7 @@
 		  </sirens>
 		</Item>
 		<Item>
-		  <id value="1073"/>
+		  <id value="1089"/>
 		  <name>BCSO_Slicktop_Complex</name>
 			<timeMultiplier value="1.00000000"/>
 			<lightFalloffMax value="90.00000000"/>
@@ -2978,7 +2978,7 @@
 		  </sirens>
 		</Item>
 		<Item>
-		  <id value="1074"/>
+		  <id value="1098"/>
 		  <name>BCSO_Slicktop_Basic</name>
 			<timeMultiplier value="1.00000000"/>
 			<lightFalloffMax value="50.00000000"/>

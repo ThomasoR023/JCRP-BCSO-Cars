@@ -84,7 +84,7 @@
 			</Probabilities>
 		  </plateProbabilities>
 		  <lightSettings value="75" />
-		  <sirenSettings value="1072" />
+		  <sirenSettings value="1087" />
 		</Item>
 		<Item>
 	      <modelName>bcsogranger</modelName>
@@ -168,7 +168,7 @@
 	        </Probabilities>
 	      </plateProbabilities>
 	      <lightSettings value="23"/>
-	      <sirenSettings value="1073"/>
+	      <sirenSettings value="1089"/>
 	    </Item>
 		<Item>
 	      <modelName>bcsogranger4</modelName>
@@ -222,7 +222,7 @@
 			</Probabilities>
 		  </plateProbabilities>
 		  <lightSettings value="44"/>
-		  <sirenSettings value="1074"/>
+		  <sirenSettings value="1098"/>
 		</Item>
 		<Item>
 	      <modelName>bcsoscout</modelName>

@@ -4,7 +4,7 @@ files {
     'data/handling.meta',
     'data/carcols.meta',
     'data/vehicles.meta',
-    'data/carvariations.meta'
+    'data/carvariations.meta',
 }
 
 data_file 'HANDLING_FILE' 'data/handling.meta'
