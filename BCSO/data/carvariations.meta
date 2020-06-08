@@ -1,0 +1,424 @@
+<?xml version="1.0"?>
+<CVehicleModelInfoVariation>
+	<variationData>
+		<Item>
+	      <modelName>bcsobison</modelName>
+	      <colors>
+	        <Item>
+	          <indices content="char_array">
+	            0
+	            0
+	            0
+	            156
+	            0
+	            0
+	          </indices>
+	        </Item>
+	      </colors>
+	      <kits>
+	        <Item>0_suv_modkit</Item>
+	      </kits>
+	      <plateProbabilities>
+	        <Probabilities>
+	          <Item>
+	            <Name>Police guv plate</Name>
+	            <Value value="100"/>
+	          </Item>
+	        </Probabilities>
+	      </plateProbabilities>
+	      <lightSettings value="1"/>
+	      <sirenSettings value="1070"/>
+	    </Item>
+		<Item>
+		  <modelName>bcsocara</modelName>
+		  <colors>
+			<Item>
+			  <indices content="char_array">
+				0
+				0
+				0
+				0
+			  </indices>
+			  <liveries/>
+			</Item>
+		  </colors>
+		  <kits>
+			<Item>0_default_modkit</Item>
+		  </kits>
+		  <windowsWithExposedEdges />
+		  <plateProbabilities>
+			<Probabilities>
+			  <Item>
+				<Name>Police Guv Plate</Name>
+				<Value value="100" />
+			  </Item>
+			</Probabilities>
+		  </plateProbabilities>
+		  <lightSettings value="1" />
+		  <sirenSettings value="1071" />
+		</Item>
+		<Item>
+		  <modelName>bcsofugitive</modelName>
+		  <colors>
+	        <Item>
+	          <indices content="char_array">
+	            0
+	            0
+	            0
+	            156
+	            0
+	            0
+	          </indices>
+	        </Item>
+		  </colors>
+		  <kits>
+			<Item>0_default_modkit</Item>
+		  </kits>
+		  <windowsWithExposedEdges />
+		  <plateProbabilities>
+			<Probabilities>
+			  <Item>
+				<Name>police guv plate</Name>
+				<Value value="100" />
+			  </Item>
+			</Probabilities>
+		  </plateProbabilities>
+		  <lightSettings value="75" />
+		  <sirenSettings value="1072" />
+		</Item>
+		<Item>
+	      <modelName>bcsogranger</modelName>
+	      <colors>
+	        <Item>
+	          <indices content="char_array">
+	            0
+	            0
+	            0
+	            0
+	            0
+	            0
+	          </indices>
+	        </Item>
+	      </colors>
+	      <kits>
+	        <Item>0_suv_modkit</Item>
+	      </kits>
+	      <plateProbabilities>
+	        <Probabilities>
+	          <Item>
+	            <Name>Police guv plate</Name>
+	            <Value value="100"/>
+	          </Item>
+	        </Probabilities>
+	      </plateProbabilities>
+	      <lightSettings value="23"/>
+	      <sirenSettings value="1070"/>
+	    </Item>
+		<Item>
+	      <modelName>bcsogranger2</modelName>
+	      <colors>
+	        <Item>
+	          <indices content="char_array">
+	            0
+	            0
+	            0
+	            0
+	            0
+	            0
+	          </indices>
+	        </Item>
+	      </colors>
+	      <kits>
+	        <Item>0_suv_modkit</Item>
+	      </kits>
+	      <plateProbabilities>
+	        <Probabilities>
+	          <Item>
+	            <Name>Police guv plate</Name>
+	            <Value value="100"/>
+	          </Item>
+	        </Probabilities>
+	      </plateProbabilities>
+	      <lightSettings value="23"/>
+	      <sirenSettings value="1071"/>
+	    </Item>
+		<Item>
+	      <modelName>bcsogranger3</modelName>
+	      <colors>
+	        <Item>
+	          <indices content="char_array">
+	            0
+	            0
+	            0
+	            0
+	            0
+	            0
+	          </indices>
+	        </Item>
+	      </colors>
+	      <kits>
+	        <Item>0_suv_modkit</Item>
+	      </kits>
+	      <plateProbabilities>
+	        <Probabilities>
+	          <Item>
+	            <Name>Police guv plate</Name>
+	            <Value value="100"/>
+	          </Item>
+	        </Probabilities>
+	      </plateProbabilities>
+	      <lightSettings value="23"/>
+	      <sirenSettings value="1073"/>
+	    </Item>
+		<Item>
+	      <modelName>bcsogranger4</modelName>
+	      <colors>
+	        <Item>
+	          <indices content="char_array">
+	            0
+	            134
+	            0
+	            0
+	            0
+	            0
+	          </indices>
+	        </Item>
+	      </colors>
+	      <kits>
+	        <Item>0_suv_modkit</Item>
+	      </kits>
+	      <plateProbabilities>
+	        <Probabilities>
+	          <Item>
+	            <Name>Police guv plate</Name>
+	            <Value value="100"/>
+	          </Item>
+	        </Probabilities>
+	      </plateProbabilities>
+	      <lightSettings value="23"/>
+	      <sirenSettings value="1070"/>
+	    </Item>
+		<Item>
+		  <modelName>bcsosandking</modelName>
+		  <colors>
+			<Item>
+			  <indices content="char_array">
+				134
+				134
+				0
+				156
+				0
+				0
+			  </indices>
+			  </Item>
+		  </colors>
+		  <windowsWithExposedEdges/>
+		  <plateProbabilities>
+			<Probabilities>
+			  <Item>
+				<Name>Police guv plate</Name>
+				<Value value="100"/>
+			  </Item>
+			</Probabilities>
+		  </plateProbabilities>
+		  <lightSettings value="44"/>
+		  <sirenSettings value="1074"/>
+		</Item>
+		<Item>
+	      <modelName>bcsoscout</modelName>
+	      <colors>
+	        <Item>
+	          <indices content="char_array">
+	            0
+	            0
+	            0
+	            4
+	            0
+	            0
+	          </indices>
+	        </Item>
+	      </colors>
+		  <kits>
+	        <Item>0_suv_modkit</Item>
+	      </kits>
+	      <plateProbabilities>
+	        <Probabilities>
+	          <Item>
+	            <Name>police guv plate</Name>
+	            <Value value="100" />
+	          </Item>
+	        </Probabilities>
+	      </plateProbabilities>
+	      <lightSettings value="72" />
+	      <sirenSettings value="1071" />
+	    </Item>
+		<Item>
+	      <modelName>bcsostanier</modelName>
+	      <colors>
+	        <Item>
+	          <indices content="char_array">
+	            0
+	            0
+	            0
+	            4
+	            0
+	            0
+	          </indices>
+	        </Item>
+	      </colors>
+		  <kits>
+	        <Item>0_default_modkit</Item>
+	      </kits>
+	      <plateProbabilities>
+	        <Probabilities>
+	          <Item>
+	            <Name>police guv plate</Name>
+	            <Value value="100" />
+	          </Item>
+	        </Probabilities>
+	      </plateProbabilities>
+	      <lightSettings value="0" />
+	      <sirenSettings value="1070" />
+	    </Item>
+		<Item>
+	      <modelName>bcsostanier2</modelName>
+	      <colors>
+	        <Item>
+	          <indices content="char_array">
+	            0
+	            0
+	            0
+	            4
+	            0
+	            0
+	          </indices>
+	        </Item>
+	      </colors>
+		  <kits>
+	        <Item>0_default_modkit</Item>
+	      </kits>
+	      <plateProbabilities>
+	        <Probabilities>
+	          <Item>
+	            <Name>police guv plate</Name>
+	            <Value value="100" />
+	          </Item>
+	        </Probabilities>
+	      </plateProbabilities>
+	      <lightSettings value="0" />
+	      <sirenSettings value="1071" />
+	    </Item>
+		<Item>
+	      <modelName>bcsostanier3</modelName>
+	      <colors>
+	        <Item>
+	          <indices content="char_array">
+	            0
+	            0
+	            0
+	            0
+	            0
+	            0
+	          </indices>
+	        </Item>
+	      </colors>
+		  <kits>
+	        <Item>0_default_modkit</Item>
+	      </kits>
+	      <plateProbabilities>
+	        <Probabilities>
+	          <Item>
+	            <Name>police guv plate</Name>
+	            <Value value="100" />
+	          </Item>
+	        </Probabilities>
+	      </plateProbabilities>
+	      <lightSettings value="0" />
+	      <sirenSettings value="1070" />
+	    </Item>
+		<Item>
+		  <modelName>bcsotiger</modelName>
+		  <colors>
+			<Item>
+			  <indices content="char_array">
+				12
+				12
+				0
+				0
+				0
+				0
+			  </indices>
+			</Item>
+		  </colors>
+		  <kits/>
+		  <windowsWithExposedEdges/>
+		  <plateProbabilities>
+			<Probabilities>
+			  <Item>
+				<Name>Police guv plate</Name>
+				<Value value="100"/>
+			  </Item>
+			</Probabilities>
+		  </plateProbabilities>
+		  <lightSettings value="0"/>
+		  <sirenSettings value="1080"/>
+		</Item>
+		<Item>
+		  <modelName>bcsotorrence</modelName>
+		  <colors>
+			<Item>
+			  <indices content="char_array">
+				0
+				0
+				0
+				4
+				0
+				0
+			  </indices>
+			</Item>
+		  </colors>
+		  <kits>
+			<Item>0_default_modkit</Item>
+		  </kits>
+		  <windowsWithExposedEdges/>
+		  <plateProbabilities>
+			<Probabilities>
+			  <Item>
+				<Name>Police guv plate</Name>
+				<Value value="100"/>
+			  </Item>
+			</Probabilities>
+		  </plateProbabilities>
+		  <lightSettings value="72"/>
+		  <sirenSettings value="1071"/>
+		</Item>
+		<Item>
+	      <modelName>bcsotrek</modelName>
+	      <colors>
+	        <Item>
+	          <indices content="char_array">
+	            0
+	            0
+	            0
+	            0
+	            0
+	            0
+	          </indices>
+	        </Item>
+	      </colors>
+	      <kits>
+	        <Item>0_suv_modkit</Item>
+	      </kits>
+	      <plateProbabilities>
+	        <Probabilities>
+	          <Item>
+	            <Name>Police guv plate</Name>
+	            <Value value="100"/>
+	          </Item>
+	        </Probabilities>
+	      </plateProbabilities>
+	      <lightSettings value="1"/>
+	      <sirenSettings value="1070"/>
+	    </Item>
+	</variationData>
+</CVehicleModelInfoVariation>
